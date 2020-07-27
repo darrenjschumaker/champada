@@ -1,0 +1,7 @@
+{
+  "name": "champADA",
+  "ticker": "CHAMP",
+  "description": "The champ of ADA stake pools.",
+  "homepage": "https://champada.io",
+  "extended": "https://repo.champada.io/extended-metadata.json"
+}
