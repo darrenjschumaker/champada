@@ -1,1 +1,6 @@
-
+{
+  "itn": {
+    "owner": "ed25519_pk1dfnss5ujrnex9dgdv92lcndwqc820p9v7pffg8zl6vq8gedz8udsl3kutf", 
+    "witness": "ed25519_sig1hch6lwfp7npuskh4rmqmm4kekkh3t68u5umpavwjfxxaduunz0928d9qq7pqxp98qrspp3nl6gpqmsm8ytjfrpdh20zugkj29rulgrcwv3etk"
+  }
+}
